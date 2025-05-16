@@ -12,6 +12,16 @@ import Ex9 from "./components/Lesson3/Ex9";
 import Ex10 from "./components/Lesson3/Ex10";
 import Example1 from "./components/Lesson4/Example1";
 import FormRegister from "./components/Lesson4/Ex2/FormRegister";
+import Ex11 from "./components/Lesson3/Ex11";
+import Ex12 from "./components/Lesson3/Ex12";
+import Ex13 from "./components/Lesson3/Ex13";
+import Ex14 from "./components/Lesson3/Ex14";
+import Ex15 from "./components/Lesson3/Ex15";
+import Ex16 from "./components/Lesson3/Ex16";
+import Ex17 from "./components/Lesson3/Ex17";
+import Ex18 from "./components/Lesson3/Ex18";
+import Ex19 from "./components/Lesson3/Ex19";
+import Ex20 from "./components/Lesson3/Ex20";
 
 function App() {
     return (
@@ -27,6 +37,16 @@ function App() {
             {/*<Ex9/>*/}
             {/*<Ex10/>*/}
             {/*<Example1/>*/}
+            <Ex11/>
+            <Ex12/>
+            <Ex13/>
+            <Ex14/>
+            <Ex15/>
+            <Ex16/>
+            <Ex17/>
+            <Ex18/>
+            <Ex19/>
+            <Ex20/>
             <FormRegister/>
         </>
     );
