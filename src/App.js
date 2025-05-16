@@ -10,20 +10,24 @@ import Ex8 from "./components/Lesson3/Ex8";
 import Ex7 from "./components/Lesson3/Ex7";
 import Ex9 from "./components/Lesson3/Ex9";
 import Ex10 from "./components/Lesson3/Ex10";
+import Example1 from "./components/Lesson4/Example1";
+import FormRegister from "./components/Lesson4/Ex2/FormRegister";
 
 function App() {
     return (
         <>
-            <Ex1/>
-            <Ex2/>
-            <Ex3/>
-            <Ex4/>
-            <Ex5/>
-            <Ex6/>
-            <Ex7/>
-            <Ex8/>
-            <Ex9/>
-            <Ex10/>
+            {/*<Ex1/>*/}
+            {/*<Ex2/>*/}
+            {/*<Ex3/>*/}
+            {/*<Ex4/>*/}
+            {/*<Ex5/>*/}
+            {/*<Ex6/>*/}
+            {/*<Ex7/>*/}
+            {/*<Ex8/>*/}
+            {/*<Ex9/>*/}
+            {/*<Ex10/>*/}
+            {/*<Example1/>*/}
+            <FormRegister/>
         </>
     );
 }
