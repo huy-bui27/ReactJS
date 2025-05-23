@@ -21,14 +21,14 @@ import Example2 from "./Lesson6/Example/Example2";
 import NewlettersForm from "./Lesson6/Example/NewlettersForm";
 import Product from "./Lesson6/Example/Product";
 import Cart from "./Lesson6/Example/Cart";
-import User from "./Lesson7/1/User";
-import Toto from "./Lesson7/2/Toto";
-import Cart7 from "./Lesson7/3/Cart";
-import Comment from "./Lesson7/4/Comment";
-import Login from "./Lesson7/5/Login";
-import MenuBar from "./Lesson7/6/MenuBar";
-import RegisterPage from "./Lesson7/7/RegisterPage";
-import FeaturePanel from "./Lesson7/8/FeaturePanel";
+import User from "./Lesson6BT/1/User";
+import Toto from "./Lesson6BT/2/Toto";
+import Cart7 from "./Lesson6BT/3/Cart";
+import Comment from "./Lesson6BT/4/Comment";
+import Login from "./Lesson6BT/5/Login";
+import MenuBar from "./Lesson6BT/6/MenuBar";
+import RegisterPage from "./Lesson6BT/7/RegisterPage";
+import FeaturePanel from "./Lesson6BT/8/FeaturePanel";
 
 function App() {
     return (
