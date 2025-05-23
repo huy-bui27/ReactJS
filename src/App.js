@@ -1,73 +1,68 @@
 import './App.css';
 import React from "react";
-import Ex1 from "./components/Lesson3/Ex1";
-import Ex2 from "./components/Lesson3/Ex2";
-import Ex3 from "./components/Lesson3/Ex3";
-import Ex4 from "./components/Lesson3/Ex4";
-import Ex6 from "./components/Lesson3/Ex6";
-import Ex5 from "./components/Lesson3/Ex5";
-import Ex8 from "./components/Lesson3/Ex8";
-import Ex7 from "./components/Lesson3/Ex7";
-import Ex9 from "./components/Lesson3/Ex9";
-import Ex10 from "./components/Lesson3/Ex10";
-import Example1 from "./components/Lesson4/Example1";
-import Ex11 from "./components/Lesson3/Ex11";
-import Ex12 from "./components/Lesson3/Ex12";
-import Ex13 from "./components/Lesson3/Ex13";
-import Ex14 from "./components/Lesson3/Ex14";
-import Ex15 from "./components/Lesson3/Ex15";
-import Ex16 from "./components/Lesson3/Ex16";
-import Ex17 from "./components/Lesson3/Ex17";
-import Ex18 from "./components/Lesson3/Ex18";
-import Ex19 from "./components/Lesson3/Ex19";
-import Ex20 from "./components/Lesson3/Ex20";
-import cau1 from "./components/Lesson4/BT/Cau1";
-import Cau1 from "./components/Lesson4/BT/Cau1";
-import Cau2 from "./components/Lesson4/BT/Cau2";
-import Cau3 from "./components/Lesson4/BT/Cau3";
-import Cau4 from "./components/Lesson4/BT/Cau4";
-import Cau5 from "./components/Lesson4/BT/Cau5";
-import Cau6 from "./components/Lesson4/BT/Cau6";
-import Cau7 from "./components/Lesson4/BT/Cau7";
-import Cau8Form from "./components/Lesson4/BT/Cau8Form";
-import Cau9 from "./components/Lesson4/BT/Cau9";
-import Cau10 from "./components/Lesson4/BT/Cau10";
-import Cau11Form from "./components/Lesson4/BT/Cau11Form";
+import Bai1 from "./Lesson5/BT/Bai1";
+import Bai2 from "./Lesson5/BT/Bai2";
+import Bai3 from "./Lesson5/BT/Bai3";
+import Bai4Parent from "./Lesson5/BT/Bai4Parent";
+import Bai5 from "./Lesson5/BT/Bai5";
+import Bai6 from "./Lesson5/BT/Bai6";
+import Bai7 from "./Lesson5/BT/Bai7";
+import Bai8 from "./Lesson5/BT/Bai8";
+import Bai9 from "./Lesson5/BT/Bai9";
+import Bai10 from "./Lesson5/BT/Bai10";
+import Bai11 from "./Lesson5/BT/Bai11";
+import Bai12 from "./Lesson5/BT/Bai12";
+import Bai13 from "./Lesson5/BT/Bai13";
+import Bai16 from "./Lesson5/BT/Bai16";
+import Bai17 from "./Lesson5/BT/Bai17";
+import Bai18 from "./Lesson5/BT/Bai18";
+import Example1 from "./Lesson6/Example/Example1";
+import Example2 from "./Lesson6/Example/Example2";
+import NewlettersForm from "./Lesson6/Example/NewlettersForm";
+import Product from "./Lesson6/Example/Product";
+import Cart from "./Lesson6/Example/Cart";
+import User from "./Lesson7/1/User";
+import Toto from "./Lesson7/2/Toto";
+import Cart7 from "./Lesson7/3/Cart";
+import Comment from "./Lesson7/4/Comment";
+import Login from "./Lesson7/5/Login";
+import MenuBar from "./Lesson7/6/MenuBar";
+import RegisterPage from "./Lesson7/7/RegisterPage";
+import FeaturePanel from "./Lesson7/8/FeaturePanel";
+
 function App() {
     return (
         <>
-            {/*<Ex1/>*/}
-            {/*<Ex2/>*/}
-            {/*<Ex3/>*/}
-            {/*<Ex4/>*/}
-            {/*<Ex5/>*/}
-            {/*<Ex6/>*/}
-            {/*<Ex7/>*/}
-            {/*<Ex8/>*/}
-            {/*<Ex9/>*/}
-            {/*<Ex10/>*/}
-            {/*<Example1/>*/}
-            {/*<Ex11/>*/}
-            {/*<Ex12/>*/}
-            {/*<Ex13/>*/}
-            {/*<Ex14/>*/}
-            {/*<Ex15/>*/}
-            {/*<Ex16/>*/}
-            {/*<Ex17/>*/}
-            {/*<Ex18/>*/}
-            {/*<Ex19/>*/}
-            {/*<Ex20/>*/}
-            <Cau1/>
-            <Cau2/>
-            <Cau3/>
-            <Cau4/>
-            <Cau5/>
-            <Cau6/>
-            <Cau7/>
-            <Cau8Form/>
-            <Cau9/>
-            <Cau10/>
-            <Cau11Form/>
+                <Bai1/>
+                <Bai2/>
+                <Bai3/>
+                <Bai4Parent/>
+                <Bai5/>
+                <Bai6/>
+                <Bai7/>
+                <Bai8/>
+                <Bai9/>
+                <Bai10/>
+                <Bai11/>
+                <Bai12/>
+                <Bai13/>
+                <Bai16/>
+                <Bai17/>
+                <Bai18/>
+                <Example1/>
+                <Example2/>
+                <NewlettersForm/>
+                <Product/>
+                <Cart/>
+                <User/>
+                <Toto/>
+                <Cart7/>
+                <Comment/>
+                <Login/>
+                <MenuBar/>
+                <RegisterPage/>
+                <FeaturePanel/>
+
         </>
     );
 }

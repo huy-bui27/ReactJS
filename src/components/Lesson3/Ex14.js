@@ -1,7 +1,8 @@
 import React from "react";
+
 function Ex14() {
-    const conparisonDisplay =(
-        <p> 5 lon hon 3: {5>3 ? 'Dung':"Sai"}</p>
+    const conparisonDisplay = (
+        <p> 5 lon hon 3: {5 > 3 ? 'Dung' : "Sai"}</p>
 
     )
     return (
@@ -9,4 +10,5 @@ function Ex14() {
     );
 
 }
+
 export default Ex14;

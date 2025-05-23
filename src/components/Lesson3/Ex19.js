@@ -1,6 +1,7 @@
 import React from "react";
+
 function Ex19() {
-    const displayTable =(
+    const displayTable = (
         <table>
             <tr>
                 <td>Cot 1</td>

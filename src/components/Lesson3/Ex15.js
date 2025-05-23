@@ -1,9 +1,10 @@
 import React from "react";
+
 function Ex15() {
     const items = [
-        { id: 1, title: "Học JSX" },
-        { id: 2, title: "Lập trình React" },
-        { id: 3, title: "Xây dựng ứng dụng" }
+        {id: 1, title: "Học JSX"},
+        {id: 2, title: "Lập trình React"},
+        {id: 3, title: "Xây dựng ứng dụng"}
     ];
 
     return (

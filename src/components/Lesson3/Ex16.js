@@ -1,6 +1,7 @@
 import React from "react";
+
 function Ex16() {
-    const formDisplay=(
+    const formDisplay = (
         <div>
             <input type="text"/>
             <button>Gui</button>

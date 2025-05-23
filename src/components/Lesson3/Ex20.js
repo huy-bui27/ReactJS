@@ -1,9 +1,10 @@
 import React from "react";
+
 function Ex20() {
-    const labelInputDisplay =(
+    const labelInputDisplay = (
         <div>
-        <label htmlFor="nameInput">Ten:</label>
-        <input type="text" id="nameInput"/>
+            <label htmlFor="nameInput">Ten:</label>
+            <input type="text" id="nameInput"/>
         </div>
     )
     return (

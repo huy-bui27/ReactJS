@@ -1,8 +1,9 @@
 import React from "react";
+
 function Ex17() {
-    const myStyle={
-        fontSize:"18px",
-        fontWeight:"bold",
+    const myStyle = {
+        fontSize: "18px",
+        fontWeight: "bold",
     }
     const nestedElement = (
         <div className="container">
@@ -12,7 +13,8 @@ function Ex17() {
     return (
         <>
             {nestedElement}
-            </>
+        </>
     );
 }
+
 export default Ex17;

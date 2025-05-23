@@ -1,6 +1,7 @@
 import React from "react";
+
 function Ex11() {
-    const button =(
+    const button = (
         <button>Nhan vao day</button>
     )
     return (
@@ -8,4 +9,5 @@ function Ex11() {
             {button}</>
     );
 }
+
 export default Ex11;
